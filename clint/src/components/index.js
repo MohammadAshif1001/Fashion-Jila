@@ -5,9 +5,9 @@ import FilePicker from "./FilePicker";
 import Tab from "./Tab";
 
 export { 
-    CustomButton,
-    AIPicker,
-    ColorPicker,
-    FilePicker,
-    Tab,
+  CustomButton,
+  AIPicker,
+  ColorPicker,
+  FilePicker,
+  Tab,
 };
